@@ -8,10 +8,7 @@
 
 <head>
 	<title>Library Search</title>
-	 <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
 
-      <!--Mobile Optimized-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
 
@@ -115,7 +112,7 @@ while(rs.next())
 %>
 	</datalist></center>
 	
-<center><font color="white"><a class="waves-effect waves-light btn"> <input type="submit" value="Search" name="submit"></a></font></center>
+<center><font color="white"><input type="submit" value="Search" name="submit"></font></center>
 </form>
 </div>
 
