@@ -1,0 +1,45 @@
+body{
+	background-image: url("front_background.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+
+#search{
+
+border: 1px solid gray;	
+border-radius:4px;
+height:30px;
+width:500px;
+margin:100px 0px 0px 300px;
+
+
+}
+
+
+
+#search:hover{
+	background-color:#DCDCDC;
+	border: 0px 0px 1px 0px;
+}
+
+#sub_btn{
+	margin:10px 0px 0px 500px;
+}
+
+#div_trans_box{
+	height:200px;
+	width:500px;
+	background-color:black;
+	border: opx solid black;
+	opacity: 0.8;
+	margin-top:200px;
+	margin-left:450px;
+   
+}
+
+#div_input{
+	width:400px;
+	margin-top:50px
+	
+}
